@@ -1,0 +1,9 @@
+import palindrome
+import arabic_number_to_roman
+import brackets_validity
+import Multiply_binary_numbers_in_string
+
+palindrome.palindrome()
+arabic_number_to_roman.arabic_number_to_roman()
+brackets_validity.brackets_validity()
+Multiply_binary_numbers_in_string.multiplay_binary()
